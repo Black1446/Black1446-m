@@ -1,4 +1,3 @@
-port requests
 import time
 from datetime import datetime
 from colorama import Fore, Back, Style, init
